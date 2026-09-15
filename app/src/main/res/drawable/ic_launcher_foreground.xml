@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- White Circle Emblem in safe zone (center: 54, 54, radius: 24) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,54m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0" />
+
+    <!-- Royal Blue Bold 'g' monogram inside white circle -->
+    <path
+        android:fillColor="#005AC1"
+        android:pathData="M54,40 C47.5,40 43,44.5 43,50 C43,55.5 47.5,60 54,60 C58,60 61.5,58 63,55.5 L63,61 C63,65.5 59.5,68 54,68 C50,68 46.5,66.5 45,64.5 L42,67 C44.5,70 49,72 54,72 C62,72 67,67.5 67,60 L67,42 L63,42 L63,44.5 C61.5,42 58,40 54,40 Z M54,44 C58,44 63,47 63,50 C63,53 58,56 54,56 C50,56 47,53 47,50 C47,47 50,44 54,44 Z" />
+
+    <!-- Sparkle accent top-right -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M72,34 L73.5,38.5 L78,40 L73.5,41.5 L72,46 L70.5,41.5 L66,40 L70.5,38.5 Z" />
+</vector>
