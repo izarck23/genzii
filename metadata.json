@@ -1,0 +1,6 @@
+{
+  "name": "Genzii",
+  "description": "All-in-one academic workspace for originality checking, AI assistance, OCR document scanning, and cloud-synced vault storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
